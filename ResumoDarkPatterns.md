@@ -22,3 +22,6 @@ Dark patterns são interfaces de usuário projetadas intencionalmente para engan
 
 **Resumo:**
 Os dark patterns são estratégias de design de interface que manipulam e enganam os usuários para que tomem decisões contrárias aos seus melhores interesses. Eles têm raízes profundas em práticas de vendas, estudos comportamentais e marketing digital. Pesquisas confirmam sua eficácia em manipular comportamentos, resultando em impactos negativos significativos, incluindo invasão de privacidade e aumento do tempo de uso de serviços online. A regulação dessas práticas é um desafio, e há uma necessidade crescente de padrões éticos no design de interfaces para proteger os usuários.
+
+**Referencia**
+[Dark Patterns no Design de Interfaces](https://dl.acm.org/doi/pdf/10.1145/3400899.3400901)
