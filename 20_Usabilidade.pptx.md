@@ -1,6 +1,3 @@
-Aqui está a transcrição completa do conteúdo extraído do documento:
-
----
 
 **Interfaces Humano-Computador**
 **Avaliação de Interfaces**
