@@ -1,6 +1,4 @@
-Aqui está a transcrição completa do conteúdo extraído do documento:
 
----
 
 **Ergonomia e Usabilidade: Conhecimentos, Métodos e Aplicações**
 
