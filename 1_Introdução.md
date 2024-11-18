@@ -82,4 +82,4 @@ H. Rocha
 ## Bibliografia
 
 - MANDEL, Theo. *Elements of User Interface Design*. New York: John Wiley & Sons, 1997.
-- ROCHA, H. V.; BARANAUSKAS, M. C. C. *Design e Avaliação de Interfaces Humano Computador*. São Paulo: Unicamp, 2003.
+- ROCHA, H. V.; BARANAUSKAS, M. C. C. *Design e Avaliação de Interfaces Humano Computador*. São Paulo: Unicamp, 2003. 
